@@ -23,6 +23,7 @@ background-color: #D2B48C;
 font-size: small;
 font-style: italic;
 text-align: center;
+padding-bottom: 10px; border: 2px solid #221811;
 }
 #wrapper {
 width: 80%;
