@@ -46,3 +46,6 @@ main {
 .details {
     padding-left: 20%; padding-right: 20%;
 }
+img {
+    padding-left: 10px; padding-right: 10px;
+}
