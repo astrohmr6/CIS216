@@ -11,7 +11,7 @@ height: 150px; background-image: url("image/javajamlogo.jpg");
 background-repeat: no-repeat;
 }
 h1 {
-line-height: 200%;
+padding-top: 45px; padding-left: 220px; font-size: 3em;
 }
 nav {
 text-align: center;
