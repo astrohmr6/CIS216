@@ -63,7 +63,7 @@ img {
     padding-left: 10px; padding-right: 10px;
 }
 
-#heroroad {background-image: url(windingroad.jpg);
+#windingroad {background-image: url(windingroad.jpg);
 background-size: 100%; height: 250px;}
 #heromugs {background-image: url(heromugs.jpg);
 background-size: 100%; height: 250px;}
