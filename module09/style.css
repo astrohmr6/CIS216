@@ -1,6 +1,7 @@
 * {box-sizing: border-box;}
 header, nav, main, footer {display: block;}
 body { background-color: #b89e81;
+    background-image: url("image/background.gif");
     color:  #221811;
     font-family: Verdana,Arial,sans-serif;
     background-image: url("image/background.gif");
