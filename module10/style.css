@@ -38,8 +38,12 @@ footer {
 }
 
 main {
-    padding: 0px 2em 2em 2em;
+    padding-left:  0em;
+    padding-right: 0em;
+    padding-bottom: 2em;
     display: block;
+    margin-left: 200px;
+    padding-top: 0px; background-color: #FEF6C2;
 }
 
 .details {
