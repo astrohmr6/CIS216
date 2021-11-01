@@ -7,6 +7,7 @@ body { background-color: #adff2f;
 header {
     background-color: #a6e7ff;
     text-align: center;
+    height: 150px;
     background-repeat: no-repeat;
 }
 
@@ -15,9 +16,9 @@ h1 {
 }
 
 nav {
-    text-align: center;
-    font-weight: bold;
-    font-size: 1.5em; padding-top: 10px;
+text-align: center;
+font-weight: bold;
+font-size: 1.5em; padding-top: 10px;
 }
 nav a {text-decoration: none;}
 
@@ -38,17 +39,13 @@ footer {
 }
 
 main {
-    padding-left:  0em;
-    padding-right: 0em;
-    padding-bottom: 2em;
+    padding: 0px 2em 2em 2em;
     display: block;
-    margin-left: 200px;
-    padding-top: 0px; background-color: #FEF6C2;
 }
 
+.details {
+    padding-left: 20%; padding-right: 20%;
+}
 img {
-    padding-left: 0px; padding-right: 50px;
+    padding-left: 10px; padding-right: 10px;
 }
-
-main h2, main p, main div {padding-left: 3em;
-    padding-right: 2em;}
