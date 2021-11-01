@@ -46,11 +46,6 @@ main {
     padding-top: 0px; background-color: #FEF6C2;
 }
 
-.details {
-    padding-left: 20%; padding-right: 20%;
-    overflow: auto;
-}
-
 img {
     padding-left: 10px; padding-right: 10px;
 }
