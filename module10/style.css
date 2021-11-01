@@ -54,3 +54,6 @@ main {
 img {
     padding-left: 10px; padding-right: 10px;
 }
+
+main h2, main p, main div {padding-left: 3em;
+    padding-right: 2em;}
