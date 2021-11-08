@@ -1,1 +1,46 @@
 
+body {
+    display: grid;
+    grid-template-columns: 1fr 2fr 3fr 4fr 5fr 6fr 7fr 8fr;
+    grid-auto-rows: 1fr 2fr 3fr 4fr 5fr 6fr 7fr 8fr;
+}
+
+.black {
+    background-color: black;
+}
+
+.white {
+    background-color: white;
+} 
+
+.red {
+    background-color: red;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+} 
+
+.cyan {
+    background-color: cyan;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.violet {
+    background-color: violet;
+}
+
+.purple {
+    background-color: purple;
+}
