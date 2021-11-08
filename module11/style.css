@@ -35,6 +35,7 @@
 } 
 
 #red {
+    grid-area: red;
     background-color: red;
     grid-column: 1fr;
     grid-row: 1fr;
