@@ -8,12 +8,12 @@
    
 }
 
-grid-area{ grid-column-start :   grid-row-start ; grid-column-end :  grid-row-end}
+grid-area{ grid-column-start : grid-column-end ; grid-row-start :  grid-row-end}
 
 
 #black {
     background-color: black;
-    grid-area: 1 1 9 9;
+    grid-area: 1/1/9/9;
 }
 
 #white {
