@@ -18,22 +18,22 @@ grid-area{ grid-column-start :   grid-row-start ; grid-column-end :  grid-row-en
 
 #white {
     background-color: white;
-    
+    grid-area: 2/2/8/8;
 } 
 
 #red {
     background-color: red;
-  
+    grid-area: 1/1/1/1;
 }
 
 #orange {
     background-color: orange;
-    
+    grid-area: 2/2/2/2;
 }
 
 #yellow {
     background-color: yellow;
-  
+    grid-area: 3/3/3/3;
 }
 
 #green {
