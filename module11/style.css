@@ -8,12 +8,14 @@
    
 }
 
-grid-area{ grid-column-start : grid-column-end ; grid-row-start :  grid-row-end}
 
 
 #black {
     background-color: black;
-    grid-area: 1/1/9/9;
+    grid-column-start: 1;
+    grid-column-end: 1;
+    grid-row-start: 9;
+    grid-row-end: 9;
 }
 
 #white {
