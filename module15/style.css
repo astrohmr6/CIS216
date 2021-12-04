@@ -78,10 +78,13 @@ background-color: #ffc;}
 th, td {padding: 10px;}
 tr:nth-of-type(odd) {background-color: #D2B48C;}
 
-form {padding: 2em; width: 20em;}
+form {padding: 2em;}
 label {float: left; display: block; text-align: right; width: 8em; padding-right: 1em;}
 input, textarea {display: block; margin-bottom: 1em;}
 #mySubmit {margin-left: 9.5em;}
+
+button { margin-top: 10px; }
+button:hover, input:hover, label:hover { cursor: pointer; }
 
 main h2, main h3, main h4, main p, main dt, main dd, main dd, main div, main ul, main dl{padding-left: 3em;
 padding-right: 2em;}
