@@ -47,32 +47,32 @@
 }
 
 #yellow {
-    grid-column: 1fr/8fr;
-    grid-row: 1fr/8fr;
+    grid-column: 1fr/4fr;
+    grid-row: 1fr/4fr;
     background-color: yellow;
 }
 
 #green {
-    grid-column: 1fr/8fr;
-    grid-row: 1fr/8fr;
+    grid-column: 1fr/5fr;
+    grid-row: 1fr/5fr;
     background-color: green;
 } 
 
 #cyan {
-    grid-column: 1fr/8fr;
+    grid-column: 1fr/6fr;
     grid-row: 1fr/8fr;
     background-color: cyan;
 } 
 
 #blue {
-    grid-column: 1fr/8fr;
-    grid-row: 1fr/8fr;
+    grid-column: 1fr/6fr;
+    grid-row: 1fr/6fr;
     background-color: blue;
 }
 
 #violet {
-    grid-column: 1fr/8fr;
-    grid-row: 1fr/8fr;
+    grid-column: 1fr/7fr;
+    grid-row: 1fr/7fr;
     background-color: violet;
 }
 
