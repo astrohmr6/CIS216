@@ -2,6 +2,7 @@ body { background-color: #942424;
     background-image: url("webb-dark.png");
     color:  #221811;
     font-family: Verdana,Arial,sans-serif;
+    background-image: url("webb-dark.png");
 }
 
 header {
@@ -55,6 +56,8 @@ main {
         padding-top: 0px; background-color: #15e2d8;
 }
 
+#frontspidey {background-image: url(images/Arana.png);
+    background-size: 100% 100%; height: 250px;}
 
 table{width: 90%; margin: auto;
     border-spacing: 0;
