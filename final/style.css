@@ -1,14 +1,14 @@
 body { background-color: #942424;
-    background-image: url("webb-dark.png");
+    background-image: url("images/webb-dark.png");
     color:  #221811;
     font-family: Verdana,Arial,sans-serif;
-    background-image: url("webb-dark.png");
+    background-image: url("images/webb-dark.png");
 }
 
 header {
     background-color: #1c46f1;
     text-align: center;
-    height: 150px; background-image: url("SpiderNav.png");
+    height: 150px; background-image: url("images/SpiderNav.png");
     background-repeat: no-repeat;
 }
 
