@@ -5,10 +5,16 @@ body { background-color: #942424;
     background-image: url("images/webb-dark.png");
 }
 
+h4 {
+    background-color: #D2B48C; font-size: 1.2em; padding-left: 10px;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+}
+
 header {
     background-color: #1c46f1;
     text-align: center;
-    height: 100px; background-image: url("images/SpiderNav.png");
+    height: 150px; background-image: url("images/SpiderNav.png");
     background-repeat: no-repeat;
 }
 
@@ -56,8 +62,14 @@ main {
         padding-top: 0px; background-color: #15e2d8;
 }
 
+img {
+    padding-left: 10px; padding-right: 10px;
+}
+
 #frontspidey {background-image: url(images/Arana.png);
-    background-size: 100% 100%; height: 100px;}
+    background-size: 100% 100%; height: 150px;}
+#SpideyVillians {background-image: url(images/Arana.png);
+    background-size: 100% 100%; height: 150px;}
 
 table{width: 90%; margin: auto;
     border-spacing: 0;
