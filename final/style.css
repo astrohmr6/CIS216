@@ -62,13 +62,18 @@ main {
         padding-top: 0px; background-color: #15e2d8;
 }
 
+.details {
+    padding-left: 20%; padding-right: 20%;
+    overflow: auto;
+}
+
 img {
     padding-left: 10px; padding-right: 10px;
 }
 
 #frontspidey {background-image: url(images/Arana.png);
     background-size: 100% 100%; height: 150px;}
-#SpideyVillians {background-image: url(images/Arana.png);
+#SpideyVillians {background-image: url(images/SpiderVillians.jpg);
     background-size: 100% 100%; height: 150px;}
 
 table{width: 90%; margin: auto;
