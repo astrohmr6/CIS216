@@ -6,7 +6,7 @@ body { background-color: #942424;
 }
 
 h4 {
-    background-color: #D2B48C; font-size: 1.2em; padding-left: 10px;
+    background-color: #0d8863; font-size: 1.2em; padding-left: 10px;
     padding-bottom: 5px;
     text-transform: uppercase;
 }
@@ -78,6 +78,6 @@ img {
 
 table{width: 90%; margin: auto;
     border-spacing: 0;
-    background-color: #ffc;}
+    background-color: rgb(8, 168, 80);}
     th, td {padding: 10px;}
     tr:nth-of-type(odd) {background-color: #D2B48C;}
