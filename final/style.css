@@ -22,6 +22,9 @@ nav {
     width: 200px; 
 }
 nav a {text-decoration: none;}
+nav a:link {color: #dd0dcc;}
+nav a:visited {color: #ce501f;}
+nav a:hover {color: #437bf3;}
 nav ul {list-style-type: none; padding-left: 0;}
 
 
@@ -50,3 +53,10 @@ main {
         margin-left: 200px;
         padding-top: 0px; background-color: #15e2d8;
 }
+
+
+table{width: 90%; margin: auto;
+    border-spacing: 0;
+    background-color: #ffc;}
+    th, td {padding: 10px;}
+    tr:nth-of-type(odd) {background-color: #D2B48C;}
